@@ -16,5 +16,8 @@ Using tableau created various visualizations based on unexpected phenomena. Duri
 
 A story was created to put together this visualizations in a cohesive way.
 
+<img src="img/img1.PNG"/>
+<img src="img/img2.PNG"/>
+
 ### References
 This dataset was obtained on the [Citi Bike website](https://www.citibikenyc.com/system-data).
